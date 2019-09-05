@@ -1,6 +1,9 @@
 # Stock-Price-Prediction
 
-#Modules Used <br>
+## Description<br>
+Using Historical APPL(apple) stock price from yahoo finance, predict future stock price using 3 different regression methods<br>
+
+## Modules Used <br>
 1)Pandas<br>
 2)Numpy<br>
 3)Sklearn<br>
